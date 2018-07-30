@@ -1,2 +1,2 @@
-# Course1Week2
-A repo for practice
+# A repo for practice
+This is a assignment for the Data Science Specialization in coursera.
